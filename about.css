@@ -1,0 +1,36 @@
+.about {
+    display: flex;
+    justify-content: flex-start;
+    margin: 20px;
+
+}
+
+.about img {
+    width: 350px;
+    height: auto;
+margin-left: 15px;
+}
+
+.about p {
+    width: 270px;
+    height: auto;
+    margin-left: 10px;
+    margin-right: 30px;
+    height: fit-content;
+    text-align:justify;
+    font-weight: 500;
+}
+
+.cenvm {
+    text-align: left;
+    margin-left: 20px;
+}
+
+.cenvm {
+    text-align: left;
+    margin-left: 40px;
+}
+
+.cenentire {
+    margin: 70px;
+}
